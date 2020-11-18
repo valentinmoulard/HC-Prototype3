@@ -101,9 +101,10 @@ public class ImageBuilder : MonoBehaviour
     private void UpdateBlockDepositCount(GameObject pickupReference)
     {
         m_blockDepositCount++;
-
+        /*
         if (m_blockDepositCount >= m_levelBlocksCount)
             TriggerVictory();
+            */
     }
 
     private void TriggerVictory()
