@@ -6,7 +6,7 @@ This project was an exercice of 4 hours to make a prototype of a hyper casual ga
 The idea was simple : move a controller to collect objects and build something.
 
 # Demo
-<p align="center">
+<p>
   <img src="Presentation/Demo.gif">
 </p>
 
