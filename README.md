@@ -21,6 +21,11 @@ The bocks on the level spawn at a random location at a defined rate (depending o
 # The reward
 The current reward here is to discover what the player has built, what he actually collected blocks for. And the satisfaction of collecting blocks fast.
 
+<p>
+  <img src="Presentation/Building.PNG">
+  <img src="Presentation/BuildingEnd.PNG">
+</p>
+
 # Possible impovements
 This project is a first shot of the prototype. There are not even a gameplay loop for now. The purpose of this project was to make a fast prototype and evaluate the potential of the game.
 After some researches, there is a lot that can be done on this game to improve the attractivness/sexiness and the visibility of the game.
